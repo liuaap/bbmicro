@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAE,GAAG;CACxB",
+    "sources": [
+        "microsoft.scss"
+    ],
+    "names": [],
+    "file": "microsoft.css"
+}
